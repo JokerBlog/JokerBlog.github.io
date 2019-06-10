@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "1.Flutter基础—你好，Flutter！"
+title:      "Flutter基础—你好"
 subtitle:   ""
 date:       2019-05-27 08:51:00
 author:     "Joker"
 header-img: "img/post-think-try-write.jpg"
 tags:
-- Flutter
+    - Flutter
 ---
 
 
