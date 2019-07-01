@@ -6,7 +6,7 @@ date:       2019-07-01 14:28:00
 author:     "Joker"
 header-img: "img/post-think-try-write.jpg"
 tags:
-- Android     
+- NDK     
 ---
 
 ### 一、NDK产生的背景
