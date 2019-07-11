@@ -2,7 +2,7 @@
 layout:     post
 title:      "Android进程间通信 - Messenger的使用和理解"
 subtitle:   ""
-date:       2019-06-25 11:36:00
+date:       2019-07-11 09:08:00
 author:     "Joker"
 header-img: "img/post-think-try-write.jpg"
 tags:
